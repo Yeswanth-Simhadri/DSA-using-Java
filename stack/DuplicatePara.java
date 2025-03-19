@@ -1,4 +1,4 @@
-import java.util.Stack;
+import java.util.*;
 
 public class DuplicatePara {
     public static boolean isDup(String str){
